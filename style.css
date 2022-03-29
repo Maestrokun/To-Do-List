@@ -35,11 +35,11 @@ h1{
 #addToDo{
     height: 50px;
     width: 50px;
-    border: 1px solid black;
+    border: 2px solid blue;
     vertical-align: middle;
     font-size: 20px;
     border-radius: 2px;
-    background-color: red;
+    background-color: black;
     color:white;
 }
 
